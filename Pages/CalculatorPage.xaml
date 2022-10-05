@@ -1,1 +1,11 @@
-﻿
+﻿namespace Calculator.Pages;
+using System.Data;
+
+public partial class CalculatorPage : ContentPage
+{
+    public CalculatorPage()
+    {
+        InitializeComponent();
+        
+    }
+}
